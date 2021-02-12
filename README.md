@@ -1,7 +1,7 @@
 # Test_Scripts
 Varios tests para validar o medir el rendimiento de los prototipos del Virtual File System
 
-Los tests son los siguientes
+Los tests son los siguientes:
 
 ## Rendimiento_Prototipos
 Esta prueba consiste en la copia de 1000 ficheros de cierto tamaño de una carpeta a otra, para calcular el rendimiento de los prototipos de VFS usados.
