@@ -1,5 +1,7 @@
 # Test_Scripts
-Various tests to validate or measure the performance of solutions
+Varios tests para validar o medir el rendimiento de los prototipos del Virtual File System
+
+Los tests son los siguientes
 
 ## Rendimiento_Prototipos
 Esta prueba consiste en la copia de 1000 ficheros de cierto tamaño de una carpeta a otra, para calcular el rendimiento de los prototipos de VFS usados.
@@ -10,3 +12,6 @@ Antes de realizar la prueba, hay que preparar el entorno, para no tener carpetas
 3. Ejecuta el script "filecopia.bat". Este script ejecuta la copia de los 1000 ficheros de una ubicacion a otra.
 
 Cuando termines de hacer pruebas, borra el contenido de Copia1, ya que tiene los 1000 ficheros preparados para ser copiados.
+
+## Test de MemoryMapping
+...
